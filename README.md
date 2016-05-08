@@ -1,2 +1,1 @@
-# hello-world
-This is sample
+This is Python stuff
